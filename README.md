@@ -1,4 +1,4 @@
-# Job Assistant — an MCP server for Gmail and Google Drive
+# Job Assistant: an MCP server connecting Jobs from gmail and selecting the right CV from Google Drive
 
 A **Model Context Protocol** server, built in Python with [FastMCP](https://gofastmcp.com), that
 gives an AI host read-only access to a personal Google Drive and Gmail account so it can do the
