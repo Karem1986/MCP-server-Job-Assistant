@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": [
+      "WebFetch(domain:linkedin.com)",
+      "WebFetch(domain:www.linkedin.com)"
+    ]
+  }
+}
